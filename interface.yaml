@@ -1,0 +1,4 @@
+name: spark-quorum
+summary: Interface used by the Apache Spark quorum members
+version: 1
+maintainer: "Juju Big Data <bigdata@lists.ubuntu.com>"
